@@ -170,7 +170,7 @@ body {
 .gallery__grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 10px;
+    gap: 1rem;
     padding: 20px;
 }
 
